@@ -1,0 +1,13 @@
+.env
+*.log
+history.csv
+flowwow.db
+shops.txt
+*.exe
+*.db-journal
+dump_ru.html
+dump.html
+flowwow-stats
+main
+mock
+temp.json
